@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
   rootContainer: {
     padding: 16,
     marginHorizontal: 24,
-    borderRadius: 8,
+    borderRadius: 7,
     elevation: 4,
     marginTop: 36,
     backgroundColor: Colors.primary800,
